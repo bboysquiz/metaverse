@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/bboysquiz/react_third_project/app/page":["/Users/bboysquiz/react_third_project/styles/globals.css"]},"/Users/bboysquiz/react_third_project/app/layout.js":["/Users/bboysquiz/react_third_project/styles/globals.css"]}
